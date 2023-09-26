@@ -1,0 +1,170 @@
+{"0": {
+    "doc": "Home",
+    "title": "Data Structures and Algorithms for Data Science",
+    "content": "DSC 30, Spring 2023 at UC San Diego . Marina Langlois she/her/hers . malanglois@ucsd.edu . Lecture: MWF 10:00AM-10:50AM (A00) / 11:00AM-11:50AM (B00), FAH 1101 . Discussion: Friday 3:00PM-3:50PM / 4:00-4:50PM, CENTER 212/214 . Office Hours: Marked in calendar or by appointment (preferred) . 🎉 Welcome to the Spring 2023 offering of DSC 30! This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms: Selection, Insertion, Merge, Quick and Heap. Prerequisites: DSC 20. Schedule: . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/#data-structures-and-algorithms-for-data-science",
+    "relUrl": "/#data-structures-and-algorithms-for-data-science"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/",
+    "relUrl": "/"
+  },"2": {
+    "doc": "Resources",
+    "title": "Resources 📚",
+    "content": "Resources will be added here as the quarter progresses. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/resources/#resources-",
+    "relUrl": "/resources/#resources-"
+  },"3": {
+    "doc": "Resources",
+    "title": "Table of contents",
+    "content": ". | CompassX | Midterm 1 | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/resources/#table-of-contents",
+    "relUrl": "/resources/#table-of-contents"
+  },"4": {
+    "doc": "Resources",
+    "title": "CompassX",
+    "content": ". | Access CompassX:Link | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/resources/#compassx",
+    "relUrl": "/resources/#compassx"
+  },"5": {
+    "doc": "Resources",
+    "title": "Midterm 1",
+    "content": ". | List of topics | . | Quarter | Exam Type | Solution | . | Spring 2019 | Midterm | Solution | . | Spring 2020 | Midterm |   | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/resources/#midterm-1",
+    "relUrl": "/resources/#midterm-1"
+  },"6": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/resources/",
+    "relUrl": "/resources/"
+  },"7": {
+    "doc": "Staff",
+    "title": "Staff 🧑‍🏫",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staff/#staff-",
+    "relUrl": "/staff/#staff-"
+  },"8": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Marina Langlois she/her/hers . malanglois@ucsd you know the rest . Hi, I am Marina and I am originally from Russia (not France!). I moved to Chicago to continue my education and I earned my PhD in Computer Science from UIC. Then I worked at Yeshiva University, NYC and then moved to UCSD&lt; San Diego. I was a member of CS department at first but them moved to Data Science and I am loving it! I am excited to be your instructor for this quarter and you are welcome to stop by just to chat :) . Fun fact: I play ping pong!💃 . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "John Driscoll he/him/his . jjdrisco@ucsd.edu . Hi, I’m John! I’m a third year majoring in Data Science with minors in Math and Business. In my free time I do competitive hip hop and I like to read and bullet journal. This is my second time tutoring DSC 30, and I’m so excited to work with you all this quarter. I’m happy to help with any of your questions :) . Bobby Zhu he/him/his . b2zhu@ucsd.edu . Hi everyone! This is Bobby and I’m a 2nd-year data science major. I grew up in Beijing, China, and finished my high school in Philadelphia. In my free time, I like baking, watching movies, and playing board games with my friends. Feel free to come to my office-hour if you have any questions or just for a casual talk~ . Cassidy Lu she/her/hers . nilu@ucsd.edu . Hi, I am Cassidy Lu and I major in Cognitive Science specialized in Machine Learning and minor in Data Science. This is my first time tutoring DSC30. When I am not working or studying, I love playing all kinds of sports and traveling. I am looking forward to meeting all of you this quarter, and please feel free to stop by my office hours if you have any question! . Eric Chen he/him/his . eyc004@ucsd.edu . Hi everyone! My name is Eric and I am currently a second year Data Science major from OC. I’m a big K-Pop fan (been listening to Seventeen lately) and a foodie, so I’m probably going to be watching a bunch of content related to those two things if I am not focused on schoolwork. This is my first time tutoring DSC30, so I am really excited to be a part of this class with you all and I hope that we can learn a lot from each other! . Ethan Shapiro he/him/his . enshapir@ucsd.edu . Hey everyone! You can call me Ethan and I’m a third year Data Science major in Sixth. My hobbies include going to the gym, playing video games, cooking, and singing! If you have any questions about our major, career questions, or anything else feel free to send me an email! . Huaning Liu he/him/his . h9liu@ucsd.edu . Name: Huaning Liu Pronoun: he/him/his Email: h9liu@ucsd.edu Intro: Greetings again, I’m Huaning and I’m currently a 4th year student major in Applied Math and Data Science. My current interest is asymptotic theory in Statistics. DSC30 gives a rigorous intro to Java, which could be helpful for your future data/software experiences. See you then in class and OH :) . Henry Xu he/him/his . jix049@ucsd.edu . Hi everyone! My name is Henry and I am a 2nd year majoring in Data Science and Economics. I’m originally from JiaXing, China, then I went to high school in Spokane, WA. In my free time I enjoy skiing and playing video games. This is my first time tutoring dsc30 and I am really excited to meet and work with you all! . Jessica Hung she/her/hers . yuhung@ucsd.edu . Hi!! I’m Jessica Hung and I am currently a second-year double majoring in Mathematics joint Economics and Data Science. I was born in Taiwan, but grew up in Shanghai. I really like cooking and watching NBA in my own free time. I look forward to seeing you all this quarter! Feel free to come to my office hours if you have any questions or simply want to chat! . Kalkin he/him/his . fkalkin@ucsd.edu . Hi everyone! I am Kalkin and I am a first year Math-CS major in Revelle College. I’m from the bay area and I like indie rock and math. I’m looking forward to getting to know everyone this quarter! . Kay Qu he/him/his . kqu@ucsd.edu . Hi all! I am Kay, a third year Social Psychology Major, and first time tutor for DSC 30! I was born in Tokyo and grew up in Shanghai. During my spare time I like to take photos, enjoy memes, and play rhythm games. I am very excited to offer my insights of this class to y’all! . Lucas Lee he/him/his . l2lee@ucsd.edu . Hi, I’m Lucas, and I’m excited to be one of your tutors for 30 this quarter! As a 4th-year Data Science Major, having previously tutored for DSC 30, 40B, and 80, I look forward to sharing my knowledge and insights with you! Outside the classroom, I enjoy staying active at the gym, playing video games (league/apex), and exploring new productivity techniques — currently, I’m delving into building a “second brain.” Please feel free to reach out with any questions or concerns, and let’s work towards achieving your academic goals! . Muchan Li he/him/his . mul005@ucsd.edu . Hi, I’m Muchan. I’m a third year data science and cog sci student. I do research (loosely) in data and privacy topics, and I’m obsessed with learning and working with new web frameworks and cloud-based technologies. Hit me up if your are interested too! This will be my 3rd time tutoring DSC30, and 4th time working with Marina. Definitely don’t hesitate to throw your questions at me as it is always my pleasure to see new faces, learn, and grow with you. Outside of academics, I go jim 💪 and hoop 🏀. Excited to meet you all in my office hours and lectures (when I occasionally show up :)) . Quentin Callahan he/him/his . qcallahan@ucsd.edu . Second year data science major at seventh college, San Diego local. In my free time I like to read or play video games, I work for some startups as a side job. Looking forward to working with y’all :). William Xia he/him/his . wxia@ucsd.edu . Hello! My name is William and I’m a third-year majoring in Data Science and minoring in Cognitive Science. Outside of school, I enjoy exploring nature, playing basketball, and watching kdramas. This will be my first time tutoring but I’m excited to work with everyone! Feel free to contact me or come to my office hours if you have any questions :) . Yunyi Huang he/him/his . yuh022@ucsd.edu . Hi everyone! This is Yunyi and I am a 4th year student double majoring in Data Science and Cognitive Science. This quarter is my fourth time tutoring this course, and I would say it is one of the most important and useful classes I have taken in college. I hope you all would enjoy this class, and feel free to come to my OH if you have any questions. Yuri Bukhrad he/him/his . ybukhrad@ucsd.edu . Hello everyone, my name is Yuri and this is my last quarter doing Data Science and Linguistics here at UCSD. I am originally from Russia, but have been living in SD for several years. I’ve been tutoring this class several times, and I am really excited to keep assisting students; I plan to become a teacher after I graduate, that’s how much I loved tutoring for DSC classes! I am a huge gamer and I really love making art in my free time. Let’s hope for a great spring quarter! . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staff/",
+    "relUrl": "/staff/"
+  },"10": {
+    "doc": "Staff Hours",
+    "title": "Staff Hours 📅",
+    "content": "To attend office hours, put your name on the queue by creating a ticket at autograder.ucsd.edu. If you’re attending a remote office hour, make sure to put your own zoom link in your ticket. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staffhours/#staff-hours-",
+    "relUrl": "/staffhours/#staff-hours-"
+  },"11": {
+    "doc": "Staff Hours",
+    "title": "Expectations:",
+    "content": "Office hours are meant to help students who’re stuck - this means explaining problems that were confusing, giving helpful hints for certain challenging parts, and much more. It does not mean that the answer will be handed to you if you attend them. Please don’t pester tutors to write things for you or give you the answer, they’re there to help you learn, not to get the grade you want. Also, note that tutors try to help everyone who attends their hours, but they’re constrained by time and may not be able to spend that long per student or get to every student that attended. These are rare occurrences, but they are definitely possible, so please be patient and understanding. Take advantage of office hours throughout the week to avoid instances like this. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staffhours/#expectations",
+    "relUrl": "/staffhours/#expectations"
+  },"12": {
+    "doc": "Staff Hours",
+    "title": "Rules to Office Hours:",
+    "content": ". | You should not go to OH for the purpose of checking your answers. | You should work independently after getting help (guidance or hints) instead of asking tutors to debug your entire assignment. | You are welcome to come back with another ticket if you are getting stuck again, but you should not submit it immediately after your first one. | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staffhours/#rules-to-office-hours",
+    "relUrl": "/staffhours/#rules-to-office-hours"
+  },"13": {
+    "doc": "Staff Hours",
+    "title": "Staff Hours",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/staffhours/",
+    "relUrl": "/staffhours/"
+  },"14": {
+    "doc": "Style Guide",
+    "title": "Style Guide 👀",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/styleguide/#style-guide-",
+    "relUrl": "/styleguide/#style-guide-"
+  },"15": {
+    "doc": "Style Guide",
+    "title": "Style Requirements",
+    "content": "You will be graded for the style of programming on this assignment. A few key requirements for style are given below. Here is a complete Java style guide: Java Style Guide written by Alan Yao from UC Berkeley. We will test you on a smaller set of rules: . Line Limit . No line may be longer than 100 characters (the number of characters &lt;= 100). Names . | Names of static final constants must be in all capitals (e.g., RED, DEFAULT_NAME). | Names of parameters, local variables, and methods must start with a lower-case letter, or consist of a single, upper-case letter. (e.g., maxLength, N, index, getWidth). | Names of types (classes), including type parameters, must start with a capital letter (e.g., SampleClass, LinkedList). | Give all your variable name that describe its meaning and purpose to make your code readable. (For loop variables, it is fine to use i, j, k) | Avoid “magic numbers” (numbers other than -1, 0, 1) in code by giving them meaningful symbolic names (variable names such as “hundred”, “two”, “three” are not allowed) and defining them as private static final constants at the top of the class. | . Indentation &amp; Whitespaces . | The basic indentation step is 4 spaces. (Do not use horizontal tab characters for indentation.) | Don’t mix tabs and spaces. | Each file must end with a newline sequence. | Indent code by the basic indentation step for each block level (blocks are generally enclosed in “{“ and “}”). | . Comments . | Include a comment of your name and PID at the top of every file. | Each class should have javadoc comments briefly explaining the purpose of the class, @author, and @since. | Each method should have javadoc comments explaining the behavior, parameters (using @param tag), return type (using @return tag), exception the method throws (using @throws tag). | You should write inline comments for complicated parts of your code to explain the logic of your code. | . Example SampleClass.java file: . /* * NAME: First Last * PID: Axxxxxxxx */ import java.lang.IndexOutOfBoundsException; /** * Description of Sample Class * * @author First Last * @since ${date} */ class SampleClass { /* Declare constants and magic numbers */ private static final int MAX_SIZE = 100; private int instanceVariable; /** * Description of constructor * @param para Description of para */ public SampleClass(int para) { // inline comment here to explain complicated logic to make your code readable instanceVariable = para; } /** * Description of method * * @param para1 Description of para1 * @param para2 Description of para2 * @return Description of return value * @throws IndexOutOfBoundsException when this exception is thrown */ public int sampleMethod(int para1, int para2) throws IndexOutOfBoundsException { } } . Exceptions: We will not deduct points if magic numbers appear in your code in the following scenarios . 1. Checking for mod `n`, where `n` can be any number. You don't have to make a variable for the number `n`.&lt;br&gt; ```py number_to_check % 2 == 0 # Example for mod 2 number_to_check % 3 == 0 # Example for mod 3 ``` 2. The distance formula (2D &amp; 3D examples are given, but the distance formula is ok for any dimension N). ```py a ** 2 = b ** 2 + c ** 2 # 2D distance formula d ** 2 = x1 ** 2 + x2 ** 2 + x3 ** 2 # 3D distance formula ``` 3. Root formulas such as square root, cube root, etc. ```py square_root = a_number ** (1/2) cube_root = a_number ** (1/3) ``` . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/styleguide/#style-requirements",
+    "relUrl": "/styleguide/#style-requirements"
+  },"16": {
+    "doc": "Style Guide",
+    "title": "Style Guide",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/styleguide/",
+    "relUrl": "/styleguide/"
+  },"17": {
+    "doc": "Syllabus",
+    "title": "Syllabus 📖",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#syllabus-",
+    "relUrl": "/syllabus/#syllabus-"
+  },"18": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | About 🧐 | Communication 💬 | Technology 🖥 | Class Components 🍎 . | Lectures (1%) | Readings (9%) | Programming Assignments (40%) | Exams (50%) | . | Office Hours | Policies ✏️ . | Grading | Regrades and Redemptions Requests . | Style regrade | Compile error regrade | Redemption | . | A Note on Letter Grades | . | COLLABORATION POLICY AND ACADEMIC INTEGRITY ⚠️❗ | Support 🫂 . | Accommodations | Diversity and Inclusion | . | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"19": {
+    "doc": "Syllabus",
+    "title": "About 🧐",
+    "content": "Welcome to DSC 30! This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms such as Selection, Insertion, Merge, Quick and Heap. Prerequisites: DSC 20. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#about-",
+    "relUrl": "/syllabus/#about-"
+  },"20": {
+    "doc": "Syllabus",
+    "title": "Communication 💬",
+    "content": "This quarter, we’ll be using Edstem as our course message board. You will be added to Ed at the beginning of the quarter. If you’re not able to access it please self enroll using the given link above, as we’ll be making all course announcements through it. If you have a question about anything to do with the course — if you’re stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Ed. We only ask that if your question includes some or all of your code, please make your post private so that others cannot see it. You can also post anonymously if you would prefer. Course staff will regularly check Ed and try to answer any questions that you have. You’re also encouraged to answer a question asked by another student if you feel that you know the answer! . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#communication-",
+    "relUrl": "/syllabus/#communication-"
+  },"21": {
+    "doc": "Syllabus",
+    "title": "Technology 🖥",
+    "content": "We will be using several websites this quarter. Here’s what they’re all used for: . | Course Website: where all content will be posted. | EdStem: discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem. | Gradescope: where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that’s not the case. | Autograder: where all OH tickets will be created and solved. | Zybooks: our class textbook where most reading will come from. | Sign in or create an account at learn.zybooks.com | Enter zyBook code: UCSDDSC30LangloisSpring2023 | Subscribe | . | Java reference tutorial (by Paul N. Hilfinger): Supplementary material. | Head First Java, 2nd edition: Supplementary material. | UCSD Podcast: where lectures and discussion sections are recorded. You may also go to Canvas &gt; Media Gallery | . If you will not have reliable access to a computer this quarter, please reach out to us ASAP, as the university may be able to accommodate you. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#technology-",
+    "relUrl": "/syllabus/#technology-"
+  },"22": {
+    "doc": "Syllabus",
+    "title": "Class Components 🍎",
+    "content": "Lectures (1%) . Lectures will focus on explanations of complicated and important concepts, and I’d like to keep them as interactive as possible. Therefore I will use in-class polls as well as pre-released worksheets to work out different problems with students. It is strongly encouraged that everyone attends lecture sessions for more effective learning. | To earn credit you need to answer at least 50% of the questions. | I will drop 3 participations for everyone. | First class does not count towards your participation. | You can recover misssed lecture with discussion activities. | . Readings (9%) . To prepare you for class sections, there will be required readings and/or video watching assignments to be completed before each lecture. You demonstrate your completion of reading assignments by submitting online reading quizzes for each class (except midterms and holidays). | Reading quizzes will be provided online via Canvas or Zybook Activity. | You can submit each quiz multiple times: 3 attempts for Canvas quizzes and unlimited attempts for Zybook activities. | Lowest 3 quizzes will be dropped for the quarter. | Deadline to submit them is Friday 11:59pm, it is strongly recommended that you complete the reading assignments before each lecture. | Late readings will lose 10% per day after the deadline. | This category is capped at 100%. | . Programming Assignments (40%) . | PAs are released every week on the course schedule page. | You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it’s a good habit to submit early and often. | If not specified, all assignments must be done individually. | Deadline: Specified on the write-up (usually Mondays). | You are allowed to submit the assignments late 5 times (you have 5 slip days). Can’t use more than 1 slip day per assignment. | None of the programming assignments will be dropped. | This category is capped at 100%. | . Exams (50%) . There will be three exams this quarter: . | Midterm 1 and 2 (10% each): during lectures, in person. | Final (30%): June 10 (Saturday), 11:30am-2:30pm, in person. Location TBA. | This category is also capped at 100%. | . Exam Redemption Policy . The final will be split into 3 parts: midterm1, midterm2, and new material. We offer midterm redemption opportunities only for those who have taken both midterm exams. You could replace your midterm score (not the final exam part) with the score you earn for the counterpart on the final exam (i.e. maximum between midterm1 score (%) and final-part1 (%), maximum between midterm2 score (%) and final-part2 (%) ). If you simply miss a midterm without notifing me, you are NOT eligible for this redemption policy. | You can’t skip any part of the final regardless of your midterms score. The entire exam needs to be taken. | You must score at least 55% on the final exam to pass the course. If you score lower than 55% on the final, you will receive an F in the course, regardless of your overall average. | . ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#class-components-",
+    "relUrl": "/syllabus/#class-components-"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Office Hours",
+    "content": "To get help on assignments and concepts, course staff will be hosting several office hours per week. Some of these will be held remotely and some will be held in person. See the Staff Hours tab of the course website for the most up-to-date schedule and instructions. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#office-hours",
+    "relUrl": "/syllabus/#office-hours"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Policies ✏️",
+    "content": "Grading . Here’s how we will compute your grade. | Component | Weight | Notes | . | Class participation | 1% | drop 3 lowest | . | Reading Quizzes | 9% | drop 3 lowest | . | PAs | 40% | none dropped | . | Midterm 1 | 10% | see the Redemption Policy above | . | Midterm 2 | 10% | see the Redemption Policy above | . | Final Exam | 30% | must score &gt;= 55% to pass | . Regrades and Redemptions Requests . Assignment Regrade and Redemption Policy: . Once the grade is out, you have 4 days to request a regrade on Gradescope and we won’t take any ED posts asking for regrade. We will use the following regrade policies strictly: . Style regrade . For regrade request about style points, you should first check your grader’s comments before you request a regrade. After you read the comments, if you still believe the grader made a mistake, we will regrade your whole assignment strictly. For example, if you had a magic number that the grader didn’t catch before, you will lose points for it after you get your style points back where the grader made a mistake. Compile error regrade . If your submitted files did not compile, and Gradescope showed . SUBMISSION FAILED. FILES DO NOT COMPILE. in your submission page, you will automatically receive 0 in this assignment but you can ask for a regrade requst: . | For weeks 1 and 2, when you learn the process, we apply no penalty for such cases. | 0 for the rest of the assignments. | . Redemption . | You can resubmit your work up to 1 week after you receive your PA grade and receive up to 70% of your lost points in the auto-graded portion. The last assignment doesn’t have this makeup option. | . A Note on Letter Grades . We will use a standard scale for assigning letter grades: . | Final Grade Percentage | Final Letter Grade | . | [90% , 100%] | Some kind of A | . | [80% , 90%) | Some kind of B | . | [70% , 80%) | Some kind of C | . | [60% , 70%) | D | . | [0% , 60%) | F | . Plus and minus cutoffs will be determined at the instructor’s discretion. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#policies-%EF%B8%8F",
+    "relUrl": "/syllabus/#policies-️"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "COLLABORATION POLICY AND ACADEMIC INTEGRITY ⚠️❗",
+    "content": "The basic rule for DSC 30 is: Work hard. Make use of the expertise of the staff to learn what you need to know to really do well in the course. Act with integrity, and don’t cheat. If you do cheat, we will enforce the UCSD Policy on Integrity of Scholarship. This means: You might fail the course and the Dean of your college will put you on probation or suspend or dismiss you from UCSD. Why is academic integrity important? Academic integrity is an issue that should be important to all students on campus. When students act unethically by copying someone’s work, taking an exam for someone else, plagiarizing, etc., these students are misrepresenting their academic abilities. This makes it impossible for instructors to give grades and for the University to give degrees that reflect student knowledge. This devalues the worth of a UCSD degree for all students, making it important for the entire campus to band together and enforce that all members of this community are honest and ethical. We want your degree to be meaningful and we want you to be proud to call yourself a graduate of UCSD! . The Jacobs School of Engineering Code of Academic Integrity, the UCSD Policy on Integrity of Scholarship and this syllabus list some of the standards by which you are expected to complete your academic work, but your good ethical judgment (or asking us for advice) is also expected as we cannot list every behavior that is unethical or not in the spirit of academic integrity. Ignorance of the rules will not excuse you from any violations. What counts as cheating? . In DSC 30, you can read books, surf the web, talk to your friends and the DSC 30 staff to get help understanding the concepts you need to know to complete your assignments. However, all code must be written by you, together with your partner if you choose to have one (when allowed). Note that a partner is allowed only when we explicitly say that groupwork is allowed for a particular assignment. Most assignments in this course must be completed individually. The following activities are considered cheating and ARE NOT ALLOWED in DSC 30 (This is not an exhaustive list): . | Using or submitting code acquired from other students (except your partner, when allowed), the web, or any other resource not officially sanctioned by this course . | Having any other student complete any part of your assignment on your behalf . | Acquiring exam questions or answers prior to taking an exam . | Completing an assignment on behalf of someone else . | Providing code, exam questions, or solutions to any other student in the course . | Using any external resource on closed-book exams . | The following activities are examples of appropriate collaboration and ARE ALLOWED in DSC 20: . | Discussing the general approach to solving homework problems or a final project (when given) . | Talking about debugging strategies or debugging issues you ran into and how you solved them . | Discussing the answers to exams with other students who have already taken the exam after the exam is complete . | Using code provided in class, by the textbook or any other assigned reading or video, with attribution . | Google searching for documentation on Python . | . How can I be sure that my actions are NOT considered cheating? . To ensure that you don’t encounter any problems, here are some suggestions for completing your work. | Don’t look at or discuss the details of another student’s code for an assignment you are working on, and don’t let another student look at your code. | Don’t start with someone else’s code and make changes to it, or in any way share code with other students. | If you are talking to another student about an assignment, don’t take notes, and wait an hour afterward before you write any code. | . Note: in the discussion above, we are talking about other students that are not your pair programming partner. See the pair programming guidelines for information on working with a partner. Remember, Academic Integrity is about doing your part to act with Honesty, Trust, Fairness, Respect, Responsibility and Courage. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#collaboration-policy-and-academic-integrity-%EF%B8%8F",
+    "relUrl": "/syllabus/#collaboration-policy-and-academic-integrity-️"
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Support 🫂",
+    "content": "Accommodations . Students requesting accommodations for this course due to a disability or current functional limitation must provide a current Authorization for Accommodation (AFA) letter issued by the Office for Students with Disabilities (OSD). This AFA letter should be shared with the instructor and the Data Science OSD Liaison, who can be reached at dscstudent@ucsd.edu. Please contact us by the end of Week 3 to make sure we can arrange accommodations as needed. Diversity and Inclusion . We are committed to creating an inclusive learning environment in which individual differences are respected and all students feel comfortable. If you have any suggestions as to how we could create a more inclusive setting, please let us know. We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community. Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and able to thrive. ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/#support-",
+    "relUrl": "/syllabus/#support-"
+  },"27": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/dsc30-2023-sp/syllabus/",
+    "relUrl": "/syllabus/"
+  }
+}
