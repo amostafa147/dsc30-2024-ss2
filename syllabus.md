@@ -57,33 +57,45 @@ If you will not have reliable access to a computer this quarter, please reach ou
 
 ## Class Components 🍎
 
-### Lectures (1%)
+### Lectures (5%)
 
 Lectures will focus on explanations of complicated and important concepts, and I'd like to keep them as interactive as possible. Therefore I will use in-class polls as well as pre-released worksheets to work out different problems with students. It is strongly encouraged that everyone attends lecture sessions for more effective learning. 
 - To earn credit you need to answer at least 50% of the questions.
-- I will drop 3 participations for everyone.
+- I will drop 6 participations for everyone.
 - First class does not count towards your participation. 
-- You can recover misssed lecture with discussion activities. 
 
-### Readings (9%)
+### Readings (10%)
 
 To prepare you for class sections, there will be required readings and/or video watching assignments to be completed before each lecture. You demonstrate your completion of reading assignments by submitting online reading quizzes for each class (except midterms and holidays).
 - Reading quizzes will be provided online via Canvas or Zybook Activity.
 - You can submit each quiz multiple times: 3 attempts for Canvas quizzes and unlimited attempts for Zybook activities. 
 - Lowest 3 quizzes will be dropped for the quarter.
 - Deadline to submit them is Friday 11:59pm, it is strongly recommended that you complete the reading assignments **before** each lecture.
-- Late readings will lose 10% per day after the deadline.
 - This category is capped at 100%.
 
-### Programming Assignments (40%)
+### Programming Assignments (32%)
 
 - PAs are released every week on the course schedule page.
 - You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
 - If not specified, all assignments must be done **individually**.
 - Deadline: Specified on the write-up (usually Mondays).
 - You are allowed to submit the assignments late 5 times (you have 5 slip days). Can't use more than 1 slip day per assignment. 
+- If you submit late as a group then each student will loose a slip day. If one of the students does not have a slip day, then you can't submit late. 
 - None of the programming assignments will be dropped.
 - This category is capped at 100%.
+
+### Discussions (3%)
+
+The purpose of discussions is to prepare you for taking exams on paper.
+
+Process:
+- You will be given a few problems emulating exam questions and a limited time. 
+- After the time is up, you will give your work to the tutor and then he/she will go over the solutions with you. 
+- In order to record your participation, you will the weblicker app, so please bring your phones. 
+
+Notes:
+- 1 lowest discussion will be dropped.
+- If your exam score is above 90%, then 3 more discussions will be dropped.
 
 ### Exams (50%)
 
