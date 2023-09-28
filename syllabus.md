@@ -129,9 +129,10 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Class participation | 1% | drop 3 lowest |
-| Reading Quizzes | 9% | drop 3 lowest |
-| PAs | 40% | **none dropped** |
+| Class participation | 5% | drop 6 lowest |
+| Reading Quizzes | 10% | drop 3 lowest |
+| PAs | 32% | **none dropped** |
+| Discussion | 3% | drop 1 lowest |
 | Midterm 1 | 10% | see the Redemption Policy above |
 | Midterm 2 | 10% | see the Redemption Policy above |
 | Final Exam | 30% | must score >= 55% to pass|
