@@ -26,7 +26,7 @@ Prerequisites: DSC 20.
 
 ## Communication 💬
 
-This quarter, we'll be using [Edstem](https://edstem.org/us/join/Qqwb24) as our course message board. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please self enroll using the given link above, as we'll be making **all course announcements** through it.
+This quarter, we'll be using [Edstem](https://edstem.org/us/join/Fahv9s) as our course message board. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please self enroll using the given link above, as we'll be making **all course announcements** through it.
 
 If you have a question about anything to do with the course — if you're stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Ed. We only ask that if your question includes some or all of your code, please make your post **private** so that others cannot see it. You can also post anonymously if you would prefer.
 
@@ -38,13 +38,13 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc-courses.github.io/dsc30-2023-sp/): where all content will be posted.
-- [EdStem](https://edstem.org/us/courses/38303/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
-- [Gradescope](https://edstem.org/us/courses/38303/discussion/): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
+- [Course Website](https://dsc-courses.github.io/dsc30-2023-fa/): where all content will be posted.
+- [EdStem](https://edstem.org/us/courses/47850/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
+- [Gradescope](https://www.gradescope.com/courses/634399): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.
-- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC20LangloisWinter2023): our class textbook where most reading will come from.
+- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisFall2023): our class textbook where most reading will come from.
   - Sign in or create an account at learn.zybooks.com
-  - Enter zyBook code: UCSDDSC30LangloisSpring2023
+  - Enter zyBook code: UCSDDSC30LangloisFall2023
   - Subscribe
 - [Java reference tutorial (by Paul N. Hilfinger)](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book1/java.pdf): Supplementary material. 
 - [Head First Java, 2nd edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf): Supplementary material.  
@@ -90,7 +90,7 @@ To prepare you for class sections, there will be required readings and/or video 
 There will be three exams this quarter:
 
 - Midterm 1 and 2 (10% each):  during lectures, in person.
-- Final (30%): June 10 (Saturday), 11:30am-2:30pm, in person. Location TBA.
+- Final (30%): December 12 (Tuesday), 11:30am-2:30pm, in person. Location TBA.
 - This category is also capped at 100%.
 
 **Exam Redemption Policy**
@@ -104,7 +104,7 @@ The final will be split into 3 parts: midterm1, midterm2, and new material. We o
 
 ## Office Hours
 
-To get help on assignments and concepts, course staff will be hosting several office hours per week. Some of these will be held remotely and some will be held in person. See the [Staff Hours](../staff-hours) tab of the course website for the most up-to-date schedule and instructions.
+To get help on assignments and concepts, course staff will be hosting several office hours per week. Some of these will be held remotely and some will be held in person. See the [Staff Hours](../staffhours) tab of the course website for the most up-to-date schedule and instructions.
 
 
 ---
