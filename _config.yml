@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 30
-description: DSC 30, Spring 2023 at UC San Diego
+description: DSC 30, Fall 2023 at UC San Diego
 tagline: Data Structures and Algorithms for Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc30.org' # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,11 +31,11 @@ aux_links:
   Autograder:
     - 'https://autograder.ucsd.edu'
   Gradescope:
-    - 'https://www.gradescope.com/courses/6Z437N'
+    - 'https://www.gradescope.com/courses/634399'
   EdStem:
-    - 'https://edstem.org/us/courses/38303/discussion/'
+    - 'https://edstem.org/us/courses/47850/discussion/'
   Zybooks:
-    - 'https://learn.zybooks.com/zybook/UCSDDSC30LangloisSpring2023'
+    - 'https://learn.zybooks.com/zybook/UCSDDSC30LangloisFall2023'
   Podcast:
     - 'https://podcast.ucsd.edu/'
 footer_content:
