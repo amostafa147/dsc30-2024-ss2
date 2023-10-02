@@ -155,7 +155,7 @@ If your submitted files did not compile, and Gradescope showed
 > SUBMISSION FAILED. FILES DO NOT COMPILE.
 
 in your submission page, you will automatically receive 0 in this assignment but you can ask for a regrade requst:
-- For weeks 1 and 2, when you learn the process, we apply no penalty for such cases.
+- For weeks 1 and 2, when you learn the process, we apply no penalty for such cases (not for code's logic).
 - 0 for the rest of the assignments. 
 
 #### **Redemption**
