@@ -19,7 +19,7 @@ Resources will be added here as the quarter progresses.
 
 ## CompassX
 
-- Access CompassX:[Link](http://compassx.ucsd.edu/compassx/)
+- Access CompassX:[Link](https://compassx.ucsd.edu/compassx/)
 
 
 ## **Exams**
