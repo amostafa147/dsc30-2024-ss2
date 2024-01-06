@@ -1,9 +1,8 @@
 ---
-name: Ahmed Mostafa
+name: Yulin Chen
 role: Staff
 pronouns: he/him/his
-email: ahmostafa@ucsd.edu
-photo: ../assets/images/a_mostafa.jpg
-website: https://www.linkedin.com/in/ahmed-mostafa-47612b247
+email: yuc093@ucsd.edu
+photo: ../assets/images/y_chen.jpg
 ---
-Hello, my name is Ahmed. I am a second-year data science major. This is my second time tutoring DSC 30. In my free time, I love playing soccer and visiting my family. Don’t hesitate to reach out to me if you have any questions. Looking forward to see everyone!
+Hi everyone! I am Yulin Chen. I am a second-year Data Science and Math-CS major student. This is my first time tutoring, so I am really excited. I will do my best to help you and I am sure that you will enjoy the fun of DSC 30. During my free time, I like to play badminton:badminton_racquet_and_shuttlecock: and League of Legends. Looking forward to meet and work with you all!
