@@ -18,15 +18,15 @@ description: Course structure and policies.
 
 ## About 🧐
 
-Welcome to DSC 30! This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms such as Selection, Insertion, Merge, Quick and Heap. 
+Welcome to DSC30! This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Trees and Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms such as Selection, Insertion, Merge, Quick and Heap. 
 
-Prerequisites: DSC 20. 
+Prerequisites: DSC20. 
 
 ---
 
 ## Communication 💬
 
-This quarter, we'll be using [Edstem](https://edstem.org/us/join/Fahv9s) as our course message board. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please self enroll using the given link above, as we'll be making **all course announcements** through it.
+This quarter, we'll be using [Edstem](https://edstem.org/us/join/P8d6fW) as our course message board. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please self enroll using the given link above, as we'll be making **all course announcements** through it.
 
 If you have a question about anything to do with the course — if you're stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Ed. We only ask that if your question includes some or all of your code, please make your post **private** so that others cannot see it. You can also post anonymously if you would prefer.
 
@@ -38,13 +38,13 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc-courses.github.io/dsc30-2023-fa/): where all content will be posted.
-- [EdStem](https://edstem.org/us/courses/47850/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
-- [Gradescope](https://www.gradescope.com/courses/634399): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
+- [Course Website](https://dsc-courses.github.io/dsc30-2024-wi/): where all content will be posted.
+- [EdStem](https://edstem.org/us/courses/51684/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
+- [Gradescope](https://www.gradescope.com/courses/696707): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.
-- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisFall2023): our class textbook where most reading will come from.
+- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisWinter2023): our class textbook where most reading will come from.
   - Sign in or create an account at learn.zybooks.com
-  - Enter zyBook code: UCSDDSC30LangloisFall2023
+  - Enter zyBook code: UCSDDSC30LangloisWinter2023  (I asked to change it to 2024 though)
   - Subscribe
 - [Java reference tutorial (by Paul N. Hilfinger)](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book1/java.pdf): Supplementary material. 
 - [Head First Java, 2nd edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf): Supplementary material.  
@@ -77,10 +77,9 @@ To prepare you for class sections, there will be required readings and/or video 
 
 - PAs are released every week on the course schedule page.
 - You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
-- If not specified, all assignments must be done **individually**.
-- Deadline: Specified on the write-up (usually Mondays).
-- You are allowed to submit the assignments late 5 times (you have 5 slip days). Can't use more than 1 slip day per assignment. 
-- If you submit late as a group then each student will loose a slip day. If one of the students does not have a slip day, then you can't submit late. 
+- All assignments must be done **individually**.
+- Deadline: Specified on the write-up.
+- You are allowed to submit the assignments late 5 times (you have 5 slip days). Can't use more than 1 slip day per assignment.
 - None of the programming assignments will be dropped.
 - This category is capped at 100%.
 
@@ -102,7 +101,7 @@ Notes:
 There will be three exams this quarter:
 
 - Midterm 1 and 2 (10% each):  during lectures, in person.
-- Final (30%): December 12 (Tuesday), 11:30am-2:30pm, in person. Location TBA.
+- Final (30%): March 18 (Monday), 3:00-6:00pm, in person. Location TBA.
 - This category is also capped at 100%.
 
 **Exam Redemption Policy**
@@ -110,7 +109,6 @@ There will be three exams this quarter:
 The final will be split into 3 parts: midterm1, midterm2, and new material. We offer midterm redemption opportunities only for those who have taken **both** midterm exams. You could replace your midterm score (not the final exam part) with the score you earn for the counterpart on the final exam  (i.e. maximum between midterm1 score (%) and final-part1 (%), maximum between midterm2 score (%) and final-part2 (%) ). If you simply miss a midterm without notifing me, you are **NOT** eligible for this redemption policy.
 * You can't skip any part of the final regardless of your midterms score. The entire exam needs to be taken.
 * You must score **at least 55%** on the final exam to pass the course. If you score lower than 55% on the final, you will receive an F in the course, regardless of your overall average.
-
 
 ---
 
@@ -155,7 +153,7 @@ If your submitted files did not compile, and Gradescope showed
 > SUBMISSION FAILED. FILES DO NOT COMPILE.
 
 in your submission page, you will automatically receive 0 in this assignment but you can ask for a regrade requst:
-- For weeks 1 and 2, when you learn the process, we apply no penalty for such cases (not for code's logic).
+- For weeks 1 and 2, when you learn the process, we apply no penalty for some cases (not for code's logic but issues with the gradescope or IntelliJ).
 - 0 for the rest of the assignments. 
 
 #### **Redemption**
@@ -207,9 +205,9 @@ The following activities are considered cheating and ARE **NOT ALLOWED** in DSC 
 
 * Using any external resource on closed-book exams
 
-* The following activities are examples of appropriate collaboration and ARE ALLOWED in DSC 20:
+* The following activities are examples of appropriate collaboration and ARE ALLOWED in DSC 30:
 
-* Discussing the general approach to solving homework problems or a final project (when given)
+* Discussing the general (high-level) approach to solving homework problems
 
 * Talking about debugging strategies or debugging issues you ran into and how you solved them
 
@@ -217,7 +215,7 @@ The following activities are considered cheating and ARE **NOT ALLOWED** in DSC 
 
 * Using code provided in class, by the textbook or any other assigned reading or video, with attribution
 
-* Google searching for documentation on Python 
+* Google searching for documentation on Java 
 
 **How can I be sure that my actions are NOT considered cheating?**
 
