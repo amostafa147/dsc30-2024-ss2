@@ -42,9 +42,9 @@ We will be using several websites this quarter. Here's what they're all used for
 - [EdStem](https://edstem.org/us/courses/51684/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
 - [Gradescope](https://www.gradescope.com/courses/696707): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.
-- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisWinter2023): our class textbook where most reading will come from.
+- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisWinter2024): our class textbook where most reading will come from.
   - Sign in or create an account at learn.zybooks.com
-  - Enter zyBook code: UCSDDSC30LangloisWinter2023  (I asked to change it to 2024 though)
+  - Enter zyBook code: UCSDDSC30LangloisWinter2024 
   - Subscribe
 - [Java reference tutorial (by Paul N. Hilfinger)](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book1/java.pdf): Supplementary material. 
 - [Head First Java, 2nd edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf): Supplementary material.  

@@ -6,4 +6,4 @@ email: kqu@ucsd.edu
 photo: ../assets/images/kay_qu.jpeg
 
 ---
-Hi all! I am Kay, a third year Social Psychology Major, and first time tutor for DSC 30! I was born in Tokyo and grew up in Shanghai. During my spare time I like to take photos, enjoy memes, and play rhythm games. I am very excited to offer my insights of this class to y’all!
+Hi all, I’m Kay, a fourth year Social Psychology major (not a typo) minoring Data Science. This will be my third quarter teaching this class under Marina, so please do not hesitate to ask me anything about this class! Some facts about me: I was born in Tokyo, but grew up in Shanghai; I started playing Valorant recently and I am consistently a bottom fragger; I am also into photography and is now broke due to purchasing too much camera gears. Anyhow, I am really excited about this quarter and hoping to see everyone in office hours!
