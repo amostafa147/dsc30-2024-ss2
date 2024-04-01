@@ -75,7 +75,7 @@ To prepare you for class sections, there will be required readings and/or video 
 - Deadline to submit them is Friday 11:59pm, it is strongly recommended that you complete the reading assignments **before** each lecture.
 - This category is capped at 100%.
 
-### Programming Assignments (33%)
+### Programming Assignments (36%)
 
 - PAs are released every week on the course schedule page.
 - You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
