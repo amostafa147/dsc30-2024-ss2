@@ -5,4 +5,4 @@ pronouns: he/him/his
 email: jix049@ucsd.edu 
 photo: ../assets/images/h_xu.JPG
 ---
-Hi everyone! My name is Henry and I am a 3rd year majoring in Data Science and Economics. I’m originally from JiaXing, China, then I went to high school in Spokane, WA. In my free time I enjoy skiing and playing video games. This is my third time tutoring dsc30 and I am really excited to meet and work with you all!
+Hi everyone! My name is Henry and I am a 3rd year majoring in Data Science and Economics. I’m originally from JiaXing, China, then I went to high school in Spokane, WA. In my free time I enjoy skiing and playing video games(League and HSR). This is my fifth time tutoring dsc30 and I am really excited to meet and work with you all!
