@@ -55,14 +55,16 @@ If you will not have reliable access to a computer this quarter, please reach ou
 
 ---
 
-## Class Components 🍎
+## Class Components (capped at 100%) 🍎
 
-### Lectures (5%)
+### Lectures (2% Extra Credit)
 
 Lectures will focus on explanations of complicated and important concepts, and I'd like to keep them as interactive as possible. Therefore I will use in-class polls as well as pre-released worksheets to work out different problems with students. It is strongly encouraged that everyone attends lecture sessions for more effective learning. 
-- To earn credit you need to answer at least 50% of the questions.
-- I will drop 6 participations for everyone.
-- First class does not count towards your participation. 
+- To earn credit you need to answer at least 70% of the questions.
+
+You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
+
+
 
 ### Readings (10%)
 
@@ -73,7 +75,7 @@ To prepare you for class sections, there will be required readings and/or video 
 - Deadline to submit them is Friday 11:59pm, it is strongly recommended that you complete the reading assignments **before** each lecture.
 - This category is capped at 100%.
 
-### Programming Assignments (32%)
+### Programming Assignments (33%)
 
 - PAs are released every week on the course schedule page.
 - You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
@@ -101,7 +103,7 @@ Notes:
 There will be three exams this quarter:
 
 - Midterm 1 and 2 (10% each):  during lectures, in person.
-- Final (30%): March 18 (Monday), 3:00-6:00pm, in person. Location TBA.
+- Final (30%): June 8th (Saturday), 11:30-2:30pm, in person. Location TBA.
 - This category is also capped at 100%.
 
 **Exam Redemption Policy**
@@ -127,10 +129,10 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Class participation | 5% | drop 6 lowest |
+| Class participation | 2% Extra Credit|  |
 | Reading Quizzes | 10% | drop 3 lowest |
-| PAs | 32% | **none dropped** |
-| Discussion | 3% | drop 1 lowest |
+| PAs | 36% | **none dropped** |
+| Discussion | 4% | drop 1 lowest |
 | Midterm 1 | 10% | see the Redemption Policy above |
 | Midterm 2 | 10% | see the Redemption Policy above |
 | Final Exam | 30% | must score >= 55% to pass|
