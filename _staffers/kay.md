@@ -6,4 +6,4 @@ email: kqu@ucsd.edu
 photo: ../assets/images/kay_qu.jpeg
 
 ---
-Hi all, I’m Kay, a fourth year Social Psychology major (not a typo) minoring Data Science. This will be my third quarter teaching this class under Marina, so please do not hesitate to ask me anything about this class! Some facts about me: I was born in Tokyo, but grew up in Shanghai; I started playing Valorant recently and I am consistently a bottom fragger; I am also into photography and is now broke due to purchasing too much camera gears. Anyhow, I am really excited about this quarter and hoping to see everyone in office hours!
+Hi all! I’m Kay, a fourth year Social Psychology major minoring Data Science. This will be my fourth quarter tutoring this class and also my last quarter in UCSD. I speak Mandarin and Japanese aside from English. During my spare time I play rhythm games and do photography while budget allows. I am looking forward to making connections with y'all, and please do not hesitate to come find me in my office hours!
