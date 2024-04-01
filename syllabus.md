@@ -85,7 +85,7 @@ To prepare you for class sections, there will be required readings and/or video 
 - None of the programming assignments will be dropped.
 - This category is capped at 100%.
 
-### Discussions (3%)
+### Discussions (4%)
 
 The purpose of discussions is to prepare you for taking exams on paper.
 
