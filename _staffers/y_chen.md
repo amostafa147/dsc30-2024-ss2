@@ -1,5 +1,5 @@
 ---
-name: Yulin Chen
+name: Yulin (Lucas) Chen
 role: Staff
 pronouns: he/him/his
 email: yuc093@ucsd.edu
