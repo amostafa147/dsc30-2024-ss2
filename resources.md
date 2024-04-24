@@ -24,7 +24,7 @@ Resources will be added here as the quarter progresses.
 
 ## **Exams**
 
-- [List of topics](https://docs.google.com/document/d/1GKGO5bIv-lHsga6osPHwsyLo1VHOVv4XcxSfPRdcG-c/edit)
+- [List of topics (Midterm 1)](https://docs.google.com/document/d/1GQ7XZ9W2vWeRR6rkdHsYPnFSTkdICQRJtzvwJboRHqE/edit)
 
 | Quarter      | **Exam Type** | **Solution**     |
 | :---        |    :---   |          :--- |
