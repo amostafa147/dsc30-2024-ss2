@@ -38,7 +38,7 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc30.org/): where all content will be posted.
+- [Course Website](http://dsc30-ss2.dns-dynamic.net): where all content will be posted.
 - [EdStem](https://edstem.org/us/courses/57828/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
 - [Gradescope](https://www.gradescope.com/courses/760590): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.

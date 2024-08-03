@@ -17,7 +17,7 @@ title: DSC 30
 description: DSC 30, Spring 2024 at UC San Diego
 tagline: Data Structures and Algorithms for Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dsc30.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://dsc30-ss2.dns-dynamic.net' # the base hostname & protocol for your site, e.g. http://example.com
 author: Benjamin Chen
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
