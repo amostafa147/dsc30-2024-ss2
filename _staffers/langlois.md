@@ -1,5 +1,5 @@
 ---
-name: Marina Langlois
+name: Suh Young
 role: Instructor
 pronouns: she/her/hers
 email: malanglois@ucsd you know the rest
