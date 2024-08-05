@@ -20,14 +20,4 @@ seo:
 
 Prerequisites: DSC20.
 
-Schedule:
-
-<iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJY7RDlPl700P0rA7YbSPpvp6PzDOSO7-CU5-0M6uRmkTkeY1wQR0kUjWiN0VjB1CMySxOfu1nERFc/pubhtml?gid=1559029066&single=true"></iframe>
-
-
-
-
-
-
-
-
+Schedule forthcoming!
