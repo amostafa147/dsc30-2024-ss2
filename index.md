@@ -16,7 +16,7 @@ seo:
 
 {{ site.staffersnobio }}
 
-🎉 <span style='color:DeepPink'><b> Welcome to the Spring 2024 offering of DSC30!</b></span> <br>This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Trees and Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms: Selection, Insertion, Merge, Quick and Heap. 
+🎉 <span style='color:DeepPink'><b> Welcome to the Summer 2024 offering of DSC30!</b></span> <br>This course introduces you to the foundations of programming in Java, data structures and algorithms. In particular, DSC 30 is the second class in the series taught in Java and covers data structures including: Stacks, Queues, Arrays, Lists, Linked Lists, Hash Tables, Binary Trees and Binary Search Trees, Balanced Trees, Heaps. This class also covers sorting algorithms: Selection, Insertion, Merge, Quick and Heap. 
 
 Prerequisites: DSC20.
 
