@@ -1,11 +1,11 @@
 ---
-name: Marina Langlois
+name: Suh Young Choi
 role: Instructor
 pronouns: she/her/hers
 email: malanglois@ucsd.edu
-website: https://datascience.ucsd.edu/about/faculty/faculty/name/marina-langlois/
-photo: ../assets/images/langlois.jpg
-lecture: MWF 9:00-9:50PM, 10:00-10:50PM MANDE B-202
-discussion: Wednesday 4:00-4:50PM, 6:00-6:50PM MANDE B-202
-oh: By appointment (just drop me an email and we can find a good time to chat)
+website: 
+photo: ../assets/images/choi.jpg
+lecture: MTWR 11:00-12:20PM, [Zoom](https://ucsd.zoom.us/j/93751161778?pwd=Rmf0fA8WDiaHbcNXxuNDo8a5AKLTtn.1)
+discussion: Tuesday 2:00pm-3:50pm, [Zoom](https://ucsd.zoom.us/j/97144135052?pwd=NPqp3Fzyhi6ANTWlb7YYBNzIG18bdc.1)
+oh: Thursday 3:00pm-4:00pm, Friday 12:00pm-1:00pm, or [by appointment](https://calendar.app.google/tJJ5k26iMLGaMTqp9)
 ---
