@@ -26,7 +26,7 @@ Prerequisites: DSC20.
 
 ## Communication 💬
 
-This quarter, we'll be using [Edstem](https://edstem.org/us/join/TsUk7m) as our course message board. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please self enroll using the given link above, as we'll be making **all course announcements** through it.
+This quarter, we'll be using [Edstem](https://edstem.org/us/courses/61536/discussion/) for course communications and lesson content. You will be added to Ed at the beginning of the quarter.  If you're not able to access it please reach out to the course staff immediately, as we'll be making **all course announcements** through it.
 
 If you have a question about anything to do with the course — if you're stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Ed. We only ask that if your question includes some or all of your code, please make your post **private** so that others cannot see it. You can also post anonymously if you would prefer.
 
@@ -39,12 +39,12 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 We will be using several websites this quarter. Here's what they're all used for:
 
 - [Course Website](http://dsc30-ss2.dns-dynamic.net): where all content will be posted.
-- [EdStem](https://edstem.org/us/courses/57828/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
-- [Gradescope](https://www.gradescope.com/courses/760590): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
+- [EdStem](https://edstem.org/us/courses/61536/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
+- [Gradescope](https://www.gradescope.com/courses/813945): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 - [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.
-- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30LangloisSpring2024): our class textbook where most reading will come from.
+- [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30ChoiFall2024): our class textbook where most of the readings will come from. Note: You do not need access to Zybooks to do well in this course! All relevant materials will also be posted in lecture slides and Ed lessons. But if you'd like a copy of the textbook that we'll be working from, follow these steps:
   - Sign in or create an account at learn.zybooks.com
-  - Enter zyBook code: UCSDDSC30LangloisSpring2024 
+  - Enter zyBook code: UCSDDSC30ChoiFall2024 
   - Subscribe
 - [Java reference tutorial (by Paul N. Hilfinger)](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book1/java.pdf): Supplementary material. 
 - [Head First Java, 2nd edition](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf): Supplementary material.  
@@ -57,60 +57,63 @@ If you will not have reliable access to a computer this quarter, please reach ou
 
 ## Class Components (capped at 100%) 🍎
 
-### Lectures (2% Extra Credit)
+### Lecture Participation (5%)
 
-Lectures will focus on explanations of complicated and important concepts, and I'd like to keep them as interactive as possible. Therefore I will use in-class polls as well as pre-released worksheets to work out different problems with students. It is strongly encouraged that everyone attends lecture sessions for more effective learning. 
-- To earn credit you need to answer at least 70% of the questions.
+Lectures will focus on explanations of complicated and important concepts, and I'd like to keep them as interactive as possible. As such, there will be polls and short assignments open on Ed during lectures to accompany the lecture material.
 
-You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
+Process:
+- There will be a set of lecture activities (polls, questions, coding problems) open on Ed on the day of lecture. Have this open during lecture, so you can follow along.
+- You will be given time to work on these questions in breakout rooms with other students.
+- Lecture participation activities must be completed by 11:59pm on Ed in order to receive full credit.
 
+Notes:
+- Each lecture participation activity is graded on a completion/no-completion basis, with no partial credit given.
+- You may miss up to 3 lecture participation activities with no penalty.
+- This category is capped at 100%.
 
+### Discussions (5%)
+
+The purpose of discussions is to help you practice programming, lecture material concepts, and exam-taking.
+
+Process:
+- You will receive a Gradescope worksheet with some practice problems. The worksheet will be open during the entire discussion session.
+- When the Gradescope window closes, submit your worksheet.
+- In order to record your participation, you will receive a code phrase from the tutor(s) during discussion. Make sure to enter this on Gradescope! You will not receive credit for the worksheet unless you have the correct code phrase.
+
+Notes:
+- 1 lowest discussion score will be dropped.
+- This category is capped at 100%.
 
 ### Readings (10%)
 
-To prepare you for class sections, there will be required readings and/or video watching assignments to be completed before each lecture. You demonstrate your completion of reading assignments by submitting online reading quizzes for each class (except midterms and holidays).
-- Reading quizzes will be provided online via Canvas or Zybook Activity.
-- You can submit each quiz multiple times: 3 attempts for Canvas quizzes and unlimited attempts for Zybook activities. 
-- Lowest 3 quizzes will be dropped for the quarter.
-- Deadline to submit them is Friday 11:59pm, it is strongly recommended that you complete the reading assignments **before** each lecture.
+To prepare you for class sessions, there will be required readings and/or video watching assignments to be completed before each lecture. You demonstrate your completion of reading assignments by submitting online reading quizzes for each class (except midterms and holidays).
+- Reading assignments will be provided online via Ed.
+- You can submit each RA as many times as you'd like before the due date.
+- Lowest 3 RA scores will be dropped for the quarter.
+- Each RA will be due at 10:59am before its corresponding lecture.
+- Late work will not be accepted, and no extensions will be given on these.
 - This category is capped at 100%.
 
-### Programming Assignments (36%)
+### Programming Assignments (40%)
 
 - PAs are released every week on the course schedule page.
 - You may turn in your code as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
 - All assignments must be done **individually**.
 - Deadline: Specified on the write-up.
-- You are allowed to submit the assignments late 5 times (you have 5 slip days). Can't use more than 1 slip day per assignment.
+- You are allowed to submit the assignments late 5 times (you have 5 slip days). However, you may not use more than 1 slip day per assignment.
 - None of the programming assignments will be dropped.
 - This category is capped at 100%.
 
-### Discussions (4%)
 
-The purpose of discussions is to prepare you for taking exams on paper.
+### Exams (40%)
 
-Process:
-- You will be given a few problems emulating exam questions and a limited time. 
-- After the time is up, you will give your work to the tutor and then he/she will go over the solutions with you. 
-- In order to record your participation, you will the weblicker app, so please bring your phones. 
+There will be two exams this quarter:
 
-Notes:
-- 1 lowest discussion will be dropped.
-- If your exam score is above 90%, then 3 more discussions will be dropped.
-
-### Exams (50%)
-
-There will be three exams this quarter:
-
-- Midterm 1 and 2 (10% each):  during lectures, in person.
-- Final (30%): June 8th (Saturday), 11:30-2:30pm, in person. Location TBA.
-- This category is also capped at 100%.
-
-**Exam Redemption Policy**
-
-The final will be split into 3 parts: midterm1, midterm2, and new material. We offer midterm redemption opportunities only for those who have taken **both** midterm exams. You could replace your midterm score (not the final exam part) with the score you earn for the counterpart on the final exam  (i.e. maximum between midterm1 score (%) and final-part1 (%), maximum between midterm2 score (%) and final-part2 (%) ). If you simply miss a midterm without notifing me, you are **NOT** eligible for this redemption policy.
-* You can't skip any part of the final regardless of your midterms score. The entire exam needs to be taken.
-* You must score **at least 55%** on the final exam to pass the course. If you score lower than 55% on the final, you will receive an F in the course, regardless of your overall average.
+- Midterm (15%): August 21st (Wednesday), during usual lecture time
+- Final (25%): September 6th (Friday), 11:30-2:30pm
+- Both exams will be administered through Gradescope, and they are open-book, open-notes. More details on the exam policy will be given during lecture.
+- You must score **at least 55%** on the final exam to pass the course. If you score lower than 55% on the final, you will receive an F in the course, regardless of your overall average.
+- This category is capped at 100%.
 
 ---
 
@@ -129,13 +132,12 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Class participation | 2% Extra Credit|  |
-| Reading Quizzes | 10% | drop 3 lowest |
-| PAs | 36% | **none dropped** |
-| Discussion | 4% | drop 1 lowest |
-| Midterm 1 | 10% | see the Redemption Policy above |
-| Midterm 2 | 10% | see the Redemption Policy above |
-| Final Exam | 30% | must score >= 55% to pass|
+| Class participation | 5% | drop 3 lowest |
+| Reading Assignments | 10% | drop 3 lowest |
+| PAs | 40% | **none dropped** |
+| Discussion | 5% | drop 1 lowest |
+| Midterm | 15% | not dropped |
+| Final Exam | 25% | must score >= 55% to pass|
 
 
 ### Regrades and Redemptions Requests 
@@ -154,13 +156,7 @@ If your submitted files did not compile, and Gradescope showed
 
 > SUBMISSION FAILED. FILES DO NOT COMPILE.
 
-in your submission page, you will automatically receive 0 in this assignment but you can ask for a regrade requst:
-- For weeks 1 and 2, when you learn the process, we apply no penalty for some cases (not for code's logic but issues with the gradescope or IntelliJ).
-- 0 for the rest of the assignments. 
-
-#### **Redemption**
-
-- You can resubmit your work up to 1 week after you receive your PA grade and receive up to 70% of your lost points in the auto-graded portion. The last assignment doesn't have this makeup option.
+in your submission page, you will automatically receive 0 in this assignment.
 
 ### A Note on Letter Grades
 
