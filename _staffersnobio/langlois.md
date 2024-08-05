@@ -2,7 +2,7 @@
 name: Suh Young Choi
 role: Instructor
 pronouns: she/her/hers
-email: malanglois@ucsd.edu
+email: syc017@ucsd.edu
 website: 
 photo: ../assets/images/choi.jpg
 lecture: MTWR 11:00-12:20PM, [Zoom](https://ucsd.zoom.us/j/93751161778?pwd=Rmf0fA8WDiaHbcNXxuNDo8a5AKLTtn.1)
