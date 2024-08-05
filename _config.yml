@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 30
-description: DSC 30, Spring 2024 at UC San Diego
+description: DSC 30, Summer 2024 at UC San Diego
 tagline: Data Structures and Algorithms for Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'http://dsc30-ss2.dns-dynamic.net' # the base hostname & protocol for your site, e.g. http://example.com
