@@ -64,7 +64,7 @@ Lectures will focus on explanations of complicated and important concepts, and I
 Process:
 - There will be a set of lecture activities (polls, questions, coding problems) open on Ed on the day of lecture. Have this open during lecture, so you can follow along.
 - You will be given time to work on these questions in breakout rooms with other students.
-- Lecture participation activities must be completed by 11:59pm on Ed in order to receive full credit.
+- Lecture participation activities must be completed on Ed before the start of the next lecture in order to receive full credit. (See Ed for exact due dates and times)
 
 Notes:
 - Each lecture participation activity is graded on a completion/no-completion basis, with no partial credit given.
@@ -76,9 +76,9 @@ Notes:
 The purpose of discussions is to help you practice programming, lecture material concepts, and exam-taking.
 
 Process:
-- You will receive a Gradescope worksheet with some practice problems. The worksheet will be open during the entire discussion session.
-- When the Gradescope window closes, submit your worksheet.
-- In order to record your participation, you will receive a code phrase from the tutor(s) during discussion. Make sure to enter this on Gradescope! You will not receive credit for the worksheet unless you have the correct code phrase.
+- You will receive a Gradescope worksheet with some practice problems. The worksheet will be open for a 48-hour window from the beginning of the discussion section.
+- Make sure to submit your Gradescope worksheet by the time the window closes to receive credit.
+- **Note:** A previous version of the website said that you will receive code phrases from your tutors to enter into Gradescope to receive credit on the worksheets. This is no longer the case. We will not be using code phrases this quarter, but you should still attend discussion if/when you can!
 
 Notes:
 - 1 lowest discussion score will be dropped.
