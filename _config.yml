@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Autograder:
-    - 'https://autograder.ucsd.edu'
   Gradescope:
     - 'https://www.gradescope.com/courses/813945'
   EdStem:
