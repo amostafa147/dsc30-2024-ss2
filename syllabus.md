@@ -41,7 +41,7 @@ We will be using several websites this quarter. Here's what they're all used for
 - [Course Website](http://dsc30-ss2.dns-dynamic.net): where all content will be posted.
 - [EdStem](https://edstem.org/us/courses/61536/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to EdStem.
 - [Gradescope](https://www.gradescope.com/courses/813945): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
-- [Autograder](https://autograder.ucsd.edu): where all OH tickets will be created and solved.
+- Autograder: where all OH tickets will be created and solved.
 - [Zybooks](https://learn.zybooks.com/zybook/UCSDDSC30ChoiFall2024): our class textbook where most of the readings will come from. Note: You do not need access to Zybooks to do well in this course! All relevant materials will also be posted in lecture slides and Ed lessons. But if you'd like a copy of the textbook that we'll be working from, follow these steps:
   - Sign in or create an account at learn.zybooks.com
   - Enter zyBook code: UCSDDSC30ChoiFall2024 
