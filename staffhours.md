@@ -8,7 +8,7 @@ nav_order: 3
 # Staff Hours 📅
 {: .fs-7 .fw-400 }
 
-To attend office hours, put your name on the queue by creating a ticket at [autograder.ucsd.edu](https://autograder.ucsd.edu). If you're attending a remote office hour, make sure to put your own zoom link in your ticket.
+To attend office hours, put your name on the queue by adding a comment to the Ed megathread for that day's office hours. You can find the megathread as a pinned post on the discussion board.
 
 ## Expectations:
 Office hours are meant to help students who're stuck - this means explaining problems that were confusing, giving helpful hints for certain challenging parts, and much more. It does not mean that the answer will be handed to you if you attend them. Please don't pester tutors to write things for you or give you the answer, they're there to help you learn, not to get the grade you want.
