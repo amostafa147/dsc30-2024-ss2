@@ -17,11 +17,6 @@ Resources will be added here as the quarter progresses.
 {:toc}
 
 
-## CompassX
-
-- Access CompassX:[Link](https://compassx.ucsd.edu/compassx/)
-
-
 ## **Exams**
 
 - [List of topics (Midterm 1)](https://docs.google.com/document/d/1GQ7XZ9W2vWeRR6rkdHsYPnFSTkdICQRJtzvwJboRHqE/edit)
