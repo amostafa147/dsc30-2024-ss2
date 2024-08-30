@@ -20,6 +20,7 @@ Resources will be added here as the quarter progresses.
 ## **Exams**
 
 - [List of topics (Midterm)](https://docs.google.com/document/d/1rxiXTFTPBV-oWDZ32ea0zBK9adsIimjc2pYkjQ811p8/edit?usp=sharing)
+- [Midterm Solutions](https://drive.google.com/file/d/1PnKTWhMkjFzp8OKSHOH-7snuyC9dNcMi/view?usp=sharing)
 
 | Quarter      | **Exam Type** | **Solution**     |
 | :---        |    :---   |          :--- |
