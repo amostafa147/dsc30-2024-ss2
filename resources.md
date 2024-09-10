@@ -22,6 +22,7 @@ Resources will be added here as the quarter progresses.
 - [List of topics (Midterm)](https://docs.google.com/document/d/1rxiXTFTPBV-oWDZ32ea0zBK9adsIimjc2pYkjQ811p8/edit?usp=sharing)
 - [Midterm Solutions](https://drive.google.com/file/d/1PnKTWhMkjFzp8OKSHOH-7snuyC9dNcMi/view?usp=sharing)
 - [List of topics (Final)](https://docs.google.com/document/d/1KMi-Q0EJQf-ERl6tzfaJpgZShPC3-ILIvMhp8OB0o8Q/edit)
+- [Final Exam Solutions](https://drive.google.com/file/d/1zxB77UpmmOiOgcB_VRXJqXcdeVMif7Zr/view?usp=drive_link)
 
 | Quarter      | **Exam Type** | **Solution**     |
 | :---        |    :---   |          :--- |
